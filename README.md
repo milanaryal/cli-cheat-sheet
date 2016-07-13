@@ -1,7 +1,7 @@
 Command Line Cheat Sheet
 ===============
 
-Basic and essential command lines every web designers should know:
+Basic and essential command lines every web developers should know:
 
 * For general Command Line (CLI) basics: [basic-commands.md](basic-commands.md)
 * Command Line Cheat Sheet: [CLI-Cheat-Sheet.pdf](CLI-Cheat-Sheet.pdf)
