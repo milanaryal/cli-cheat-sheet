@@ -5,12 +5,20 @@ npm is the package manager for JavaScript.
 
 ### Resources
 
-* [Getting started with npm](https://docs.npmjs.com/getting-started/)
+* [Getting started with npm](https://docs.npmjs.com/)
 
 Requirements
 ----
 
 Install [Node.js](https://nodejs.org/en/download/package-manager/) on your machine.
+
+
+Creating a `package.json` file
+----
+
+`npm init` - create `package.json` file initating a command line questionnaire
+
+`npm init --yes` or `npm init -y` - create a `package.json` file and fill in default values
 
 Managing global packages
 ----
