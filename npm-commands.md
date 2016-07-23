@@ -46,4 +46,4 @@ Managing project packages
 
 `npm cache clean` - clean npm cache
 
-`npm run-script [<name> [<name ...]]` or for short `npm run [<name> [<name ...]]` - run scripts from `package.json`
+`npm run-script <script-name>` or for short `npm run <script-name>` - run scripts from `package.json`
