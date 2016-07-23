@@ -42,7 +42,8 @@ Managing project packages
 
 `npm prune [<name> [<name ...]]` - removes "extraneous" packages
 
-`npm where`
+`npm where` - show npm installed path
+
 `npm cache clean` - clean npm cache
 
-`npm run-script [<name> [<name ...]]` or for short `npm run [<name> [<name ...]]`
+`npm run-script [<name> [<name ...]]` or for short `npm run [<name> [<name ...]]` - run scripts from `package.json`
