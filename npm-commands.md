@@ -41,3 +41,8 @@ Managing project packages
 `npm install --dev` - will only install "devDependencies"
 
 `npm prune [<name> [<name ...]]` - removes "extraneous" packages
+
+`npm where`
+`npm cache clean` - clean npm cache
+
+`npm run-script [<name> [<name ...]]` or for short `npm run [<name> [<name ...]]`
