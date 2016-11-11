@@ -27,6 +27,8 @@ Managing global packages
 
 `npm uninstall -g [<name> [<name ...]]` - uninstall global package(s)
 
+`npm outdated --global` - Check for outdated global installed packages
+
 Managing project packages
 ----
 
@@ -39,6 +41,8 @@ Managing project packages
 `npm install --production` -  will only install "dependencies"
 
 `npm install --dev` - will only install "devDependencies"
+
+`npm outdated` - Check for outdated packages
 
 `npm prune [<name> [<name ...]]` - removes "extraneous" packages
 
