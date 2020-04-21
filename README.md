@@ -13,6 +13,5 @@ Basic and essential command lines every web developers should know:
 * Moderate/Advanced Commands: [moderate-advanced-commands.md](moderate-advanced-commands.md)
 * npm commands: [npm-commands.md](npm-commands.md)
 * Jekyll commands: [jekyll-commands.md](jekyll-commands.md)
-* How to tips: [how-to.md](how-to.md)
-
 * [Bundler Command Line Reference](https://bundler.io/commands.html)
+* How to tips: [how-to.md](how-to.md)
