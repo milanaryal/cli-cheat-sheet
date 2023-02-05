@@ -57,7 +57,7 @@
 _Ref. <https://devhints.io/homebrew>_
 
 ```zh
-Brew cask
+# Brew cask
 
 Example usage:
   brew search TEXT|/REGEX/
@@ -72,6 +72,8 @@ Troubleshooting:
   brew config
   brew doctor
   brew install --verbose --debug FORMULA|CASK
+
+...
 
 brew list
 brew upgrade
@@ -89,13 +91,12 @@ brew install --cask iina
 brew install --cask transmission
 brew install --cask visual-studio-code
 brew install --cask microsoft-edge
-brew install --cask micro soft-office
+brew install --cask microsoft-office
 
 brew tap homebrew/cask-versions
 brew install --cask transmission-beta
 i.e., brew install --cask homebrew/cask-versions/transmission-beta
 
-brew uninstall --cask --zap --force google-chrome
 brew uninstall --cask --zap --force visual-studio-code
 brew uninstall --cask --zap --force microsoft-auto-update
 brew uninstall --cask --zap --force microsoft-edge
