@@ -51,3 +51,5 @@ Managing project packages
 `npm cache clean` - clean npm cache
 
 `npm run-script <script-name>` or for short `npm run <script-name>` - run scripts from `package.json`
+
+<https://devhints.io/npm>
