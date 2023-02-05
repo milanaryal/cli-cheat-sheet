@@ -3,6 +3,8 @@ Command Line Cheat Sheet
 
 Basic and essential command lines every web developers should know:
 
+* Homebrew Commands: [brew.md](brew.md)
+* Winget Commands: [winget.md](winget.md)
 * For general Command Line (CLI) basics: [basic-commands.md](basic-commands.md)
 * Server Commands: [server-commands.md](server-commands.md)
 * Command Line Cheat Sheet: [CLI-Cheat-Sheet.pdf](CLI-Cheat-Sheet.pdf)
