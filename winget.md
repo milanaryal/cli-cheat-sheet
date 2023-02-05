@@ -6,9 +6,21 @@
 
 <https://github.com/microsoft/winget-pkgs>
 
+``winget --info``
+
 `winget search <appname>`
 
 `winget install <appname>`
+
+`winget install -e --id <appname> --source winget`
+
+`winget upgrade <appname>`
+
+`winget uninstall <appname>`
+
+`winget list`
+
+`winget upgrade --all`
 
 <https://learn.microsoft.com/en-us/windows/powertoys/install>
 
