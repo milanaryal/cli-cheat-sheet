@@ -12,7 +12,9 @@
 
 `winget install <appname>`
 
-`winget install -e --id <appname> --source winget`
+`winget install --id <appname> --exact --source winget`
+
+`winget install --id <appname> -e -s winget`
 
 `winget upgrade <appname>`
 
@@ -21,6 +23,10 @@
 `winget list`
 
 `winget upgrade --all`
+
+> The msstore source uses unique identifiers as the "Id" for packages. These do not require the exact query to ption. For example:
+
+`winget install XP9KHM4BK9FZ7Q -s msstore`
 
 <https://learn.microsoft.com/en-us/windows/powertoys/install>
 
