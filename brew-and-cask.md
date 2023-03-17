@@ -43,6 +43,7 @@ brew tap homebrew/cask
 ```
 
 ```sh
+brew install --cask android-file-transfer
 brew install --cask anydesk
 brew install --cask appcleaner
 brew install --cask firefox
