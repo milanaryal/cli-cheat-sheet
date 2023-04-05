@@ -95,3 +95,13 @@ brew uninstall --cask --zap --force microsoft-auto-update
 brew uninstall --cask --zap --force microsoft-edge
 brew uninstall --cask --zap --force microsoft-office
 ```
+
+### Updating and upgrading casks
+
+[Docs](https://github.com/Homebrew/homebrew-cask/blob/master/USAGE.md#updatingupgrading-casks).
+
+```sh
+brew upgrade --cask --greedy
+```
+
+Alternatively, [`brew cu`](https://github.com/buo/homebrew-cask-upgrade#readme)
