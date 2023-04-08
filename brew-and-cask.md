@@ -101,7 +101,15 @@ brew uninstall --cask --zap --force microsoft-office
 [Docs](https://github.com/Homebrew/homebrew-cask/blob/master/USAGE.md#updatingupgrading-casks).
 
 ```sh
+brew upgrade --cask <CASK>
+```
+
+```sh
 brew upgrade --cask --greedy
 ```
 
 Alternatively, [`brew cu`](https://github.com/buo/homebrew-cask-upgrade#readme)
+
+```sh
+brew cleanup
+```
