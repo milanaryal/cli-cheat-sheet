@@ -34,6 +34,12 @@ brew uninstall package_name
 
 Like installation command, you can use uninstall in place of install to completely remove a package from homebrew.
 
+```zsh
+brew uninstall --force package_name
+```
+
+The `--force` or `-f` flag is used to remove package even if it has dependencies.
+
 #### Upgrade a package using Homebrew
 
 ```zsh
@@ -77,6 +83,12 @@ brew cleanup package_name
 ```
 
 If you want to remove the old versions of a package, you can use the above command in the terminal with brew installed.
+
+```zsh
+brew cleanup
+```
+
+A command that frees up space on your Mac by removing old versions of formulae and small kegs of data. It also deletes old downloads from the Homebrew download-cache.
 
 #### Open home page of a package in browser
 
