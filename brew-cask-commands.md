@@ -42,3 +42,6 @@ brew uninstall --cask --zap --force cask_name
 ```
 
 The `--force` flag is used to force the uninstallation of the package.
+
+
+_Further resources: [tldr brew --cask](https://tldr.inbrowser.app/pages/common/brew-cask)._
