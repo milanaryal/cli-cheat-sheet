@@ -131,4 +131,4 @@ If you are facing any error in Homebrew or its packages then you can run the abo
 
 #### Learn more
 
-- [Homebrew cheatsheet](https://devhints.io/homebrew) by devhints.io.
+- [Homebrew cheatsheet](https://devhints.io/homebrew) by devhints.io. View-source: [homebrew.md](https://github.com/rstacruz/cheatsheets/blob/master/homebrew.md)
