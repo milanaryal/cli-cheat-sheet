@@ -1,21 +1,29 @@
 # brew-cask-commands
 
+#### Search
+
 ```zsh
 brew search text
 ```
+
 Search for formulas and casks.
+
+#### Information
 
 ```zsh
 brew info cask_name
 ```
-
 Display information about a given cask.
+
+#### Install Cask
 
 ```zsh
 brew install --cask cask_name
 ```
 
 A command that installs App on your Mac using Homebrew Cask.
+
+#### Uninstall Cask
 
 ```zsh
 brew uninstall --cask --zap cask_name
