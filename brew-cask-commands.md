@@ -26,10 +26,16 @@ A command that installs App on your Mac using Homebrew Cask.
 #### Uninstall Cask
 
 ```zsh
+brew uninstall --cask cask_name
+```
+
+A command that uninstalls App on your Mac using Homebrew Cask. The `--cask` flag is used to specify that the package being uninstalled is a cask.
+
+```zsh
 brew uninstall --cask --zap cask_name
 ```
 
-A command that uninstalls App on your Mac using Homebrew Cask. The `--cask` flag is used to specify that the package being uninstalled is a cask. The `--zap` flag is used to remove all files associated with the package being uninstalled.
+The `--zap` flag is used to remove all files associated with the package being uninstalled.
 
 ```zsh
 brew uninstall --cask --zap --force cask_name
