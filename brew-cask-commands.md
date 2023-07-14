@@ -61,4 +61,4 @@ The `--force` flag is used to force the uninstallation of the package.
 
 #### Learn more
 
-- Find basic documentation on using Homebrew Cask in [USAGE.md]([USAGE.md](https://github.com/Homebrew/homebrew-cask/blob/master/USAGE.md)https://github.com/Homebrew/homebrew-cask/blob/master/USAGE.md).
+- Find basic documentation on using Homebrew Cask in [USAGE.md](https://github.com/Homebrew/homebrew-cask/blob/master/USAGE.md).
