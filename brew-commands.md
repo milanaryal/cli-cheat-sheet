@@ -1,6 +1,6 @@
 # brew-commands
 
-_[tldr brew](https://tldr.inbrowser.app/pages/common/brew),_ & _[Homebrew cheatsheet](https://devhints.io/homebrew) by devhints.io._
+_[tldr brew](https://tldr.inbrowser.app/pages/common/brew)._
 
 Using homebrew you can install and manage packages of different services and modules. You can start and stop a service directly from brew and use the service efficiently.
 
@@ -128,3 +128,7 @@ brew doctor
 ```
 
 If you are facing any error in Homebrew or its packages then you can run the above command. It will find the issues and show you the list of issues in the terminal.
+
+#### Learn more
+
+- [Homebrew cheatsheet](https://devhints.io/homebrew) by devhints.io.
