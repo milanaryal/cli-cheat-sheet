@@ -126,3 +126,5 @@ brew doctor
 ```
 
 If you are facing any error in Homebrew or its packages then you can run the above command. It will find the issues and show you the list of issues in the terminal.
+
+_Further resources: [tldr brew](https://tldr.inbrowser.app/pages/common/brew), [Homebrew cheatsheet by devhints.io](https://devhints.io/homebrew)._
