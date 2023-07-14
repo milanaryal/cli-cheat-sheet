@@ -25,6 +25,20 @@ brew install --cask <cask_name>
 
 A command that installs App on your Mac using Homebrew Cask.
 
+#### Upgrade Cask
+
+```zsh
+brew upgrade --cask <cash_name>
+```
+
+A command that updates all outdated Casks.
+
+```zsh
+brew upgrade --cask --greedy <cash_name>
+```
+
+The `--greedy` flag is used to upgrade all dependencies of the package being upgraded. [Read more](https://github.com/Homebrew/homebrew-cask/blob/master/USAGE.md#updatingupgrading-casks)..
+
 #### Uninstall Cask
 
 ```zsh
@@ -44,3 +58,7 @@ brew uninstall --cask --zap --force <cask_name>
 ```
 
 The `--force` flag is used to force the uninstallation of the package.
+
+#### Learn more
+
+- Find basic documentation on using Homebrew Cask in [USAGE.md]([USAGE.md](https://github.com/Homebrew/homebrew-cask/blob/master/USAGE.md)https://github.com/Homebrew/homebrew-cask/blob/master/USAGE.md).
