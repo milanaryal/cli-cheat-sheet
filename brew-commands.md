@@ -142,6 +142,10 @@ If you are facing any error in Homebrew or its packages then you can run the abo
 ### Learn more about the command
 
 ```zsh
+brew help
+```
+
+```zsh
 brew help install
 ```
 
