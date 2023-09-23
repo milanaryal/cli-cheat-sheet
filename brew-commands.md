@@ -42,6 +42,14 @@ brew uninstall --force <package_name>
 
 The `--force` or `-f` flag is used to remove package even if it has dependencies.
 
+### Remove unused brew dependencies and delete outdated downloads
+
+```zsh
+brew autoremove
+```
+
+Uninstall formulae that were only installed as a dependency of another formula and are now no longer needed.
+
 #### Upgrade a package using Homebrew
 
 ```zsh
@@ -128,6 +136,14 @@ brew doctor
 ```
 
 If you are facing any error in Homebrew or its packages then you can run the above command. It will find the issues and show you the list of issues in the terminal.
+
+---
+
+### Learn more about the command
+
+```zsh
+brew help install
+```
 
 <!--
 #### Learn more
