@@ -99,10 +99,6 @@ brew cleanup
 ```
 
 ```zsh
-brew cleanup --prune
-```
-
-```zsh
 brew cleanup --prune=all
 ```
 
