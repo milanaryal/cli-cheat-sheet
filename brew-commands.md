@@ -98,6 +98,14 @@ If you want to remove the old versions of a package, you can use the above comma
 brew cleanup
 ```
 
+```zsh
+brew cleanup --prune
+```
+
+```zsh
+brew cleanup --prune=all
+```
+
 A command that frees up space on your Mac by removing old versions of formulae and small kegs of data. It also deletes old downloads from the Homebrew download-cache.
 
 #### Open home page of a package in browser
