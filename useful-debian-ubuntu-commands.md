@@ -125,3 +125,7 @@ Security details are available in apt-secure(8).
 Blog post:
   - [apt v1.0](https://mvogt.wordpress.com/2014/04/04/apt-1-0/)
   - [apt v1.1](https://mvogt.wordpress.com/2015/11/30/apt-1-1-released/)
+
+References:
+  - [apt](https://manpages.ubuntu.com/manpages/xenial/man8/apt.8.html)
+  - [apt-get](https://manpages.ubuntu.com/manpages/xenial/man8/apt-get.8.html)
