@@ -10,6 +10,10 @@ To know the package version before install: `apt policy <package_name>`
 
 To know the package details: `apt show <package_name>`
 
+To delete package: `sudo apt remove <package_name>`
+
+To delete package and its dependecies: `sudo apt purge <package_name>`
+
 To delete package and its dependecies: `apt --purge remove <package_name>`
 
 Add repo: `sudo apt-add-repository <ppa: repo_name> && apt update`
